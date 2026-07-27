@@ -1,1 +1,2 @@
-# Proyecto Java
+# Ejercicios do-while en Java
+
